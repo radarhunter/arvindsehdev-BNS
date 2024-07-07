@@ -1,4 +1,5 @@
- Created/Authored/Coded by - Gaurav Gupta (DySP(P)- 66th batch) and Soumyashree Behera .
+ Created/Authored/Coded by - Gaurav Gupta (DySP(P)- 66th batch) and Soumyashree Behera.
+ Edited by Arvind Sehdev to visually make the webpage better and add more features as and where necessary. Original credits go to Sh. Gaurav Gupta and Soumyashree Behera.
 
  This is a web App And a mobile app for new major laws(i.e bhartiya nayay Sanhita,2023, bhartiya nagrik suraksha sanhita,2023 , bhartiya saksha adhiniyam2023) introduced recently, replacing Indian Penal Code, Criminal Procedure Code , Indian Evidence Act.
  This web App basically performs following actions:-
